@@ -1,0 +1,5 @@
+
+cp samples3000.csv robot_movements.csv
+conda activate robot_env
+python3 train.py robot_movements.csv
+python3 wtojson.py
