@@ -1,0 +1,3 @@
+ncont.py is the file that uses onboard AI to control the robot.
+robot_cont.py is the file that uses an LLM to control the robot.
+
