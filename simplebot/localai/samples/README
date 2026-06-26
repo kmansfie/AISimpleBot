@@ -1,0 +1,10 @@
+samples1000.csv - straight read range move record
+samples3000.csv - same as above
+
+samples260507.csv - this is 
+	turn right distance 
+	turn left distance 
+	turn right (middle) distance
+	take smallest distance and move.
+
+
