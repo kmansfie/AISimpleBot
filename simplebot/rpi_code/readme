@@ -1,3 +1,6 @@
 ncont.py is the file that uses onboard AI to control the robot.
 robot_cont.py is the file that uses an LLM to control the robot.
 
+the llm_obsticle_avoidance.py is the file that has a cleaned up version
+of the llm controled obsticle avoidance.  Use this one.
+
